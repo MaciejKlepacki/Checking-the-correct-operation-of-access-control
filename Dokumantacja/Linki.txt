@@ -1,0 +1,53 @@
+Dokumantacja do projektu sprawdzania czytników:
+kl - sprawdzanie klawiatury
+status - sprawdzanie kart
+
+układ czytników:
+ C D
+ B A
+
+układ ramion:
+ 3 4
+ 2 1
+
+układ sprawdzania klawiatury:
+ 1 2 3
+ 4 5 6
+ 7 8 9
+ * 0 #
+
+Linki do sprawdzania czytników:
+
+http://10.0.0.20/?status=1_A
+http://10.0.0.20/?status=1_B
+http://10.0.0.20/?status=1_C
+http://10.0.0.20/?status=1_D
+
+http://10.0.0.20/?status=2_A
+http://10.0.0.20/?status=2_B
+http://10.0.0.20/?status=2_C
+http://10.0.0.20/?status=2_D
+
+http://10.0.0.20/?status=3_A
+http://10.0.0.20/?status=3_B
+http://10.0.0.20/?status=3_C
+http://10.0.0.20/?status=3_D
+
+http://10.0.0.20/?status=4_A
+http://10.0.0.20/?status=4_B
+http://10.0.0.20/?status=4_C
+http://10.0.0.20/?status=4_D
+
+
+http://10.0.0.20/?kl=1
+http://10.0.0.20/?kl=2
+http://10.0.0.20/?kl=3
+http://10.0.0.20/?kl=4
+http://10.0.0.20/?kl=5
+http://10.0.0.20/?kl=6
+http://10.0.0.20/?kl=7
+http://10.0.0.20/?kl=8
+http://10.0.0.20/?kl=9
+http://10.0.0.20/?kl=*
+http://10.0.0.20/?kl=0
+http://10.0.0.20/?kl=%      !!! % zamiast # !!!
