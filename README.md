@@ -32,7 +32,7 @@ The main program is written in the Arduino language, which is based on C. The pr
 ## Example
 
 1. **Entering the Appropriate IP Address in the Browser:**
-   By default, this is set to `10.0.0.20`, but it can be changed in the Arduino code. The following page appears:
+   By default, this is set to `10.0.0.20`, but it can be changed in the [Sprawdzanie_czytnikow.ino](program_niskopoziomowy/Sprawdzanie_czytnikow.ino) code. The following page appears:
 
 2. **Testing a Reader Labeled 'B' by Presenting Card Number 4:**
    Select `4_B`. The mechanism rotates so that card 4 is positioned over reader B. The card is then moved closer to and away from the reader.
