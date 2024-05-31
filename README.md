@@ -32,7 +32,7 @@ The core of the electronic system is an Arduino UNO with an Ethernet Shield. Con
 ![obwod](Dokumantacja/Schemat_polaczenia.png)
 
 ## Software
-The main program is written in the Arduino language, which is based on C. The program is named [Sprawdzanie_czytnikow.ino](program_niskopoziomowy/Sprawdzanie_czytnikow.ino) and includes functions such as zeroing the position of motors, implementing various libraries, network settings, defining inputs/outputs, and initiating communication with the module via the I2C bus. The HTML, CSS, and JS code for the web page should be uploaded to the SD card and inserted into the Arduino.
+The main program is written in the Arduino language, which is based on C. The program is named [Sprawdzanie_czytnikow.ino](program_niskopoziomowy/Sprawdzanie_czytnikow.ino) and includes functions such as zeroing the position of motors, implementing various libraries, network settings, defining inputs/outputs, and initiating communication with the module via the I2C bus. The [HTML, CSS, and JS](Witryna) code for the web page should be uploaded to the SD card and inserted into the Arduino.
 
 ## Example
 
